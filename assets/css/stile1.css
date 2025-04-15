@@ -39,55 +39,48 @@ h1{
 span{
     font-size: 50px;
     color: rgb(1, 255, 234);
-    text-align: center;
+    padding-left:caver;
+    
 }
 span1{
     font-size: 50px;
     color: rgb(1, 255, 234);
     padding-left: 1300px;
-    text-align: center;
-
 }
 span2{
     font-size: 50px;
     color: rgb(1, 255, 234);
     padding-left: 15px;
-    text-align: center;
 
 }
 span3{
     font-size: 50px;
     color: rgb(39, 255, 1);
     padding-left: 290px;
-    text-align: center;
 
 }
 span4{
     font-size: 50px;
     color: rgb(228, 249, 0);
     padding-left: 550px;
-    text-align: center;
 
 }
 span5{
     font-size: 50px;
     color: rgb(228, 249, 0);
     padding-left: 600px;
-    text-align: center;
 
 }
 span6{
     font-size: 50px;
     color: rgb(228, 249, 0);
     padding-left: 600px;
-    text-align: center;
 
 }
 span7{
     font-size: 50px;
     color: rgb(228, 249, 0);
     padding-left: 630px;
-    text-align: center;
 
 }
 .footer{

@@ -1,0 +1,25 @@
+
+.s{
+    border: 10px black solid;
+    background-color:aqua;
+    padding-left: 450px ;
+    border-color: rgb(0, 0, 0);
+    
+}
+button{
+    color:white;
+    padding: 30px 550px;
+    border-radius: 30px ;
+    border-color: blueviolet;
+    background-color: rgb(20, 132, 40);
+} 
+a{
+    
+        color: rgb(0, 0, 0);
+        text-decoration :none;
+        font-size: 21px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    
+}
+

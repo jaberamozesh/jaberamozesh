@@ -1,0 +1,36 @@
+span{
+    color: rgb(204, 0, 255);
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+
+}
+*{
+    background-color: rgb(255, 255, 255);
+}
+span2{
+    color: rgb(204, 0, 255);
+    float: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+
+}
+span3{
+    color: rgb(204, 0, 255);
+    float: right;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+
+}
+
+h1{
+    color: rgb(13, 0, 255);
+    padding-left: 460px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration :none;
+    font-size: 20px;
+}
+
